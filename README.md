@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![pinzi's github stats](https://github-readme-stats.vercel.app/api?username=pinzi&theme=radical&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinzi)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinzi&repo=Nancy.FixQueryDictionary)](https://github.com/anuraghazra/github-readme-stats?show_owner=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinzi&repo=GeTui-PushApi-ServerSDK-V2)](https://github.com/anuraghazra/github-readme-stats?show_owner=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinzi)](https://github.com/pinzi/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinzi&repo=Nancy.FixQueryDictionary)](https://github.com/pinzi/github-readme-stats?show_owner=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinzi&repo=GeTui-PushApi-ServerSDK-V2)](https://github.com/pinzi/github-readme-stats?show_owner=true)
