@@ -18,3 +18,6 @@ I'm from China.
 <a href="https://github.com/pinzi/WebSocketChat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinzi&repo=WebSocketChat&theme=buefy" />
 </a>
+<a href="https://github.com/pinzi/FeverButler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinzi&repo=FeverButler&theme=buefy" />
+</a>
